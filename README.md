@@ -1,0 +1,1 @@
+# shell_script_funcoes_diversas
